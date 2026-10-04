@@ -2,10 +2,6 @@
 
 **Course:** BCSE406L – NoSQL Databases  
 **Evaluation:** Review 2 – Database Implementation & Prototype (10 Marks)  
-**Team Members / Submitted by:**
-1. **Dadhania Nisarg Malaykumar** (23BCE2364)
-2. **Madhav Sah** (23BCE0868)
-3. **Arnav Dewan** (23BCE0351)  
 **Institution:** Vellore Institute of Technology (VIT), Chennai / Vellore  
 **Academic Year:** 2026  
 **GitHub Repository:** [https://github.com/dadhanianisarg/Smart-Hospital-Information-System](https://github.com/dadhanianisarg/Smart-Hospital-Information-System)
